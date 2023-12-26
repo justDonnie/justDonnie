@@ -6,7 +6,7 @@ Java Backend Developer
 
 I'm studying to code on Java language for 9 months now, after switching career... A year ago I thought that this was not mine and all that. After 3-4 months of studying I found a passion for backend development.
 
-🌍  I'm based in Bishkek, Kyrgyzstan<br>✉️  You can contact me at gafurov.daniel28@gmail.com<br>🚀  Currently working on Bilingual Project<br>🧠  Now, learning Docker, GraphQL<br>🤝  I'm open to collaborating on I am inspired by the challenges of scalability and application optimization. <br>       I’m passionate about working with technologies like Spring Framework, Hibernate, and relational databases. <br>       I am interested in projects related to the development of highly loaded web services and microservice architecture.
+🌍  Based in Bishkek, Kyrgyzstan<br>✉️  You can contact me at gafurov.daniel28@gmail.com<br>🚀  Currently working on Bilingual Project<br>🧠  Now, learning Docker, GraphQL<br>🤝  I'm open to collaborating on I am inspired by the challenges of scalability and application optimization. <br>       I’m passionate about working with technologies like Spring Framework, Hibernate, and relational databases. <br>       I am interested in projects related to the development of highly loaded web services and microservice architecture.
 
 <h3>🌐 Socials:</h3>
 
