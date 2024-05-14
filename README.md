@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Java Backend Developer
 ----------------------
 
-🌍  Based in Bishkek, Kyrgyzstan<br>✉️  You can contact me at gafurov.daniel28@gmail.com <br> 🧠Now, learning Docker, GraphQL<br>🤝  I'm open to collaborating on, and inspired by the challenges of scalability and application optimization. <br>       Passionate about working with technologies like Spring Framework, Hibernate, and relational databases. <br>   Interested in projects related to the development of highly loaded web services and microservice architecture.
+🌍  Based in Bishkek, Kyrgyzstan<br>✉️  You can contact me at gafurov.daniel28@gmail.com <br> 🧠Now, learning Docker, GraphQL<br>🤝  I'm open to collaborating on, and inspired by the challenges of scalability and application optimization. <br>       Passionate about working with technologies like Spring Framework, Hibernate, and relational databases. <br>   Interested in projects related to the development of highly loaded web services.
 
 <h3>🌐 Socials:</h3>
 
